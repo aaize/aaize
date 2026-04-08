@@ -1,12 +1,12 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+%26+Dart+Developer;Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+%26+Dart+Developer;Data+Analyst" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Shaik Abdul Rahman</h1>
 
 <p align="center">
-  Passionate about crafting innovative mobile apps, solving real-world problems with tech, and constantly exploring new technologies.
+  Passionate about crafting innovative mobile apps, solving real-world problems with tech, Analyzing Data with Python X Sql(PostgreSql) X PowerBI to give meaningful insights.
 </p>
 Contact : +91 7406830091
 <br>
