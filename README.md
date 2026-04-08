@@ -8,7 +8,7 @@
 <p align="center">
   Passionate about crafting innovative mobile apps, solving real-world problems with tech, and constantly exploring new technologies.
 </p>
-
+Contact : +91 7496830091
 ---
 
 ### 🚀 Tech Stack
@@ -80,6 +80,7 @@
 ---
 
 ### 📬 Let's Connect
+
 
 <p align="center">
   <a href="https://github.com/aaize"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
