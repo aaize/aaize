@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Shaik+Abdul+Rahman;Flutter+%26+Dart+Developer;Python+%7C+Java+%7C+.NET+Enthusiast;IoT+and+Cybersecurity+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+%26+Dart+Developer;Python" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Shaik Abdul Rahman</h1>
@@ -9,7 +9,7 @@
   Passionate about crafting innovative mobile apps, solving real-world problems with tech, and constantly exploring new technologies.
 </p>
 Contact : +91 7406830091
-
+Email: abdulrahmanshaik@myyahoo.com
 
 ### 🚀 Tech Stack
 ### 💻 Languages
