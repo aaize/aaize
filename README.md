@@ -8,8 +8,8 @@
 <p align="center">
   Passionate about crafting innovative mobile apps, solving real-world problems with tech, and constantly exploring new technologies.
 </p>
-Contact : +91 7496830091
----
+Contact : +91 7406830091
+
 
 ### 🚀 Tech Stack
 ### 💻 Languages
