@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+%26+Dart+Developer;Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Python+%26+Full+%26+Stack+%26+Developer;Flutter+%26+Developer;Data+Analyst" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Shaik Abdul Rahman</h1>
