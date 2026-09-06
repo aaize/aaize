@@ -4,7 +4,7 @@
 <p align="center">
 📍 Bangalore, India<br>
 📧 abdulrahmanshaik@myyahoo.com<br>
-🔗 <a href="https://linkedin.com/in/aaize">LinkedIn</a> • <a href="https://github.com/aaize">GitHub</a>
+🔗 <a href="https://linkedin.com/in/aaize">LinkedIn</a> • <a href="https://www.instagram.com/aaize9">Instagram</a>
 </p>
 
 <p align="center">
