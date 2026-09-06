@@ -89,15 +89,7 @@ Secure desktop password manager.
 
 - Python by AI - Zestech
 - Python Full Stack - Emexo Technologies (Ongoing)
-
----
-
-### 📊 GitHub Stats
-
-<!-- Replace YOUR-USERNAME with your actual GitHub username -->
-![Stats](https://github-readme-stats.vercel.app/api?username=aaize&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaize&layout=compact)
-
+  
 ---
 
 ### 🌱 Currently
