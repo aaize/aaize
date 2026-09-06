@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SHAIK ABDUL RAHMAN</h1>
+<h1 align="center">SHAIK ABDUL RAHMAN</h1>
 <h3 align="center">MCA Graduate | Python Full-Stack Developer from Bangalore, India</h3>
 
 <p align="center">
