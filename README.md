@@ -95,8 +95,8 @@ Secure desktop password manager.
 ### 📊 GitHub Stats
 
 <!-- Replace YOUR-USERNAME with your actual GitHub username -->
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=aaize&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaize&layout=compact)
 
 ---
 
