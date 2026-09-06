@@ -1,90 +1,81 @@
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Python+Full+Stack+Developer;Flutter+Developer;Data+Analyst" alt="Typing SVG" />
-</p>
-
-<h1 align="center">👋 Shaik Abdul Rahman</h1>
+<h1 align="center">Hi 👋, I'm Shaik Abdul Rahman</h1>
+<h3 align="center">MCA Graduate | Aspiring Full-Stack Developer from Bangalore, India</h3>
 
 <p align="center">
-  Passionate about crafting innovative mobile apps, solving real-world problems with tech, Analyzing Data with Python X Sql(PostgreSql) X PowerBI to give meaningful insights.
-</p>
-Contact : +91 7406830091
-<br>
-Email: abdulrahmanshaik@myyahoo.com
-
-### 🚀 Tech Stack
-### 💻 Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🧰 Tools & Frameworks
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-### 🧠 Interests
-
-- 📱 Building elegant mobile apps with Flutter & Dart
-- 🔐 Cybersecurity & Ethical Hacking
-- 🎯 Real-Time Face Detection & Image Processing
-- 💾 Backend Development using Firebase & FastAPI
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaize&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaize&layout=compact&theme=tokyonight&langs_count=10" width="49%" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaize&theme=algolia&no-frame=true&column=7&margin-w=5" />
-</p>
+My name is **Shaik Abdul Rahman**. I am an **MCA graduate from Bangalore, India**, focused on becoming a strong **Full-Stack Developer** by building real-world projects.
 
----
-
-### ⏳ Contribution Graph & Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaize&theme=tokyonight" />
-</p>
+- 🎓 **MCA** — 2023–2025
+- 🎓 **BCA** — 2020–2023
+- 💼 Internship experience in **Data Analytics**
+- 🐍 Practical training in **Python Full Stack Development**
+- 🌱 Currently learning: **JavaScript, React, Next.js, Tailwind**
+- 🎯 Goal: Build and understand real projects, not just theory
 
 ---
 
-### 📬 Let's Connect
+### 🚀 Current Main Project: Minco
 
+I previously built **Minco** as a mobile app using **Flutter / Dart**.
 
-<p align="center">
-  <a href="https://github.com/aaize"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+I am now **rebuilding Minco as a web application from scratch** — designed specifically for the web.
+
+**Plan:**
+1. Design screens and UI first
+2. Build frontend step-by-step
+3. Gradually add backend functionality
+4. Use proper Git/GitHub workflow throughout
+
+> Old mobile repo is used only for reference (features, screens, ideas) — not copied directly.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+
+**Backend:**
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-25D366?logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)
+
+**Databases:**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+
+**Frontend:**
+- HTML5, CSS3, JavaScript
+- Responsive Web Design
+- Learning: React, Next.js, Tailwind
+
+**Tools:**
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
+**Data:**
+- Pandas, NumPy, Matplotlib
+- Power BI, Jupyter Notebook
+- Basic Machine Learning concepts
