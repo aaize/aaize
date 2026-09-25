@@ -5,6 +5,7 @@
 📍 Bangalore, India<br>
 📧 abdulrahmanshaik@myyahoo.com<br>
 🔗 <a href="https://linkedin.com/in/aaize">LinkedIn</a> • <a href="https://www.instagram.com/aaize9">Instagram</a>
+• <a href="https://aaize09.pythonanywhere.com/">MincoWeb</a>
 </p>
 
 <p align="center">
