@@ -1,12 +1,11 @@
 <h1 align="center">SHAIK ABDUL RAHMAN</h1>
-<a href="https://aaize.github.io/portfolio/">Portfolio</a>
 <h3 align="center">MCA Graduate | Python Full-Stack Developer from Bangalore, India</h3>
 
 <p align="center">
 📍 Bangalore, India<br>
 📧 abdulrahmanshaik@myyahoo.com<br>
 🔗 <a href="https://linkedin.com/in/aaize">LinkedIn</a> • <a href="https://www.instagram.com/aaize9">Instagram</a>
-• <a href="https://aaize09.pythonanywhere.com/">MincoWeb</a>
+• <a href="https://aaize09.pythonanywhere.com/">MincoWeb</a> • <a href="https://aaize.github.io/portfolio/">Portfolio</a>
 </p>
 
 <p align="center">
